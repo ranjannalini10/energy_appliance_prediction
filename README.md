@@ -28,4 +28,4 @@ Tdewpoint: The dew point temperature in Celsius
 
 The dataset was collected over a period of several months from a single household. The data was sampled every 10 minutes, resulting in a total of 19,735 observations.
 
-The purpose of this dataset is to enable the development of predictive models that can accurately estimate household energy consumption. Researchers and practitioners in the fields of energy management and machine learning may find this dataset useful for their work.
+The purpose f this dataset is to enable the development of predictive models that can accurately estimate household energy consumption. Researchers and practitioners in the fields of energy management and machine learning may find this dataset useful for their work.
