@@ -22,7 +22,7 @@ RH_out: The outdoor humidity level in %
 
 Windspeed: The wind speed in m/s
 
-Visibility: The visibility in km
+Visibility: The visibility in kms.
 
 Tdewpoint: The dew point temperature in Celsius
 
