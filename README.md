@@ -18,7 +18,7 @@ T_out: The outdoor temperature in Celsius
 
 Press_mm_hg: The pressure in mm of mercury
 
-RH_out: The outdoor humidity level in %
+RH_out: The outdoor humidity level in prcentage
 
 Windspeed: The wind speed in m/s
 
